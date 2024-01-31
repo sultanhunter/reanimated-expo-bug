@@ -16,7 +16,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sultanibneusman.reanimated-expo-bug"
     },
     "android": {
       "adaptiveIcon": {
