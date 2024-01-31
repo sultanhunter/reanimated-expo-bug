@@ -1,4 +1,4 @@
-Steps to reproduct:
+Steps to reproduce:
 1. npm i
 2. npx expo run:ios
 3. click on any image
